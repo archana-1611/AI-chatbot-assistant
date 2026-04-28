@@ -73,6 +73,4 @@ Nova is configured with a specific system instruction to act as a helpful, profe
 
 Contributions, issues, and feature requests are welcome!
 
-## 📝 License
 
-This project is open-source and available under the MIT License.
